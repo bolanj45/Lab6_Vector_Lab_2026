@@ -35,7 +35,7 @@ int main(int argc, char* argv[]) {
         printf("Listing vectors");
         // list();
     } else if(!strcmp(token1, "-h")) {
-        printf("help info");
+        printf("help info extended for lab6");
     } else if(!strcmp(token2, "=")) {
 
     }

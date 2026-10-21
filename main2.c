@@ -1,6 +1,5 @@
 /**
  * File: main.c from BobT
- * 
  * Brief: minimat
  * Author: Julian Bolan
  * Date: 10/1/2026
